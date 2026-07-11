@@ -2,7 +2,7 @@
 
 A pixel-faithful front-end build of a healthcare "Patients" dashboard, converted from an Adobe XD design into responsive, framework-free HTML/CSS/JS and wired up to a live REST API.
 
-**🔗 Live demo:** _add your GitHub Pages link here after deploying, e.g. `https://YOUR_USERNAME.github.io/techcare-patient-dashboard/`_
+**🔗 Live demo:** `https://hattrickz.github.io/techcare-patient-dashboard/`_
 
 ![Tech.Care dashboard preview](preview.png)
 
@@ -43,7 +43,7 @@ Because the page calls a remote API with `fetch()`, most browsers are happiest s
 
 ```bash
 # clone the repo
-git clone https://github.com/YOUR_USERNAME/techcare-patient-dashboard.git
+git clone https://github.com/hattrickz/techcare-patient-dashboard.git
 cd techcare-patient-dashboard
 
 # serve it (pick whichever you have installed)
